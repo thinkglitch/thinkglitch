@@ -26,10 +26,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alnafimember&" alt="alnafimember" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alnafimember&show_icons=true&locale=en" alt="alnafimember" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alnafimember&" alt="alnafimember" /></p>
-
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="muhammad-rafay-602478258" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-rafay-602478258?trk=profile-badge">Muhammad Rafay</a></div>
               
