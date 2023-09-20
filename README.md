@@ -1,7 +1,7 @@
 
 [![MasterHead](https://camo.githubusercontent.com/98c780ccc80ffe74cc94b3ca0f2e86d6b7fecc4e0cb88c3885dbb95f0d3087d7/68747470733a2f2f69626167726f757069742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f62616e6e65725f313330302d3335375f6465766f70732e706e67)]()
 <h1 align="center">Hi 👋, I'm Muhammad Rafay</h1>
-<h3 align="center">A passionate linux administrator/Devops engineer from Pakistan</h3>
+<h3 align="center">A passionate linux administrator/Devops engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="alnafimember" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnafimember&label=Profile%20views&color=0e75b6&style=flat" alt="alnafimember" /> </p>
 
